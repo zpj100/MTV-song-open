@@ -13,14 +13,14 @@
 
 当前包：
 
-- APK 1.5.4：https://gitee.com/zpj100/MTV-song-open/releases/download/v1.5.4/mtv-song-1.5.4.apk
-- 备用：https://github.com/zpj100/MTV-song-open/releases/download/v1.5.4/mtv-song-1.5.4.apk
+- APK 1.5.5：https://gitee.com/zpj100/MTV-song-open/releases/download/v1.5.5/mtv-song-1.5.5.apk
+- 备用：https://github.com/zpj100/MTV-song-open/releases/download/v1.5.5/mtv-song-1.5.5.apk
 
 应用内「检查更新」对照本仓最新发行，无需登录。
 
 ## 说明
 
-- 默认不联网。扩充曲库、直播、检查更新、打开夸克分享时才访问外网
+- 默认不联网。扩充曲库、直播、检查更新、打开网盘时才访问外网
 - 网上搜歌只走 Internet Archive / Wikimedia / Openverse
-- 夸克公开分享可浏览目录，下载需网页 Cookie
+- 底部「网盘」打开内置夸克分享，浏览免登录；下载需网页 Cookie
 - 源码仓私有，本仓不要推源码
