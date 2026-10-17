@@ -13,8 +13,8 @@
 
 当前包：
 
-- APK 1.5.7：https://gitee.com/zpj100/MTV-song-open/releases/download/v1.5.7/mtv-song-1.5.7.apk
-- 备用：https://github.com/zpj100/MTV-song-open/releases/download/v1.5.7/mtv-song-1.5.7.apk
+- APK 1.5.8：https://gitee.com/zpj100/MTV-song-open/releases/download/v1.5.8/mtv-song-1.5.8.apk
+- 备用：https://github.com/zpj100/MTV-song-open/releases/download/v1.5.8/mtv-song-1.5.8.apk
 
 应用内「检查更新」对照本仓最新发行，无需登录。
 
@@ -22,7 +22,7 @@
 
 - 默认不联网。扩充曲库、直播、检查更新、打开网盘时才访问外网
 - 网上搜歌只走 Internet Archive / Wikimedia / Openverse
-- 底部「网盘」打开内置夸克分享，浏览免登录；夸克 / 百度 / 阿里可在设置里直接登录，不用手抄 Cookie
+- 底部「网盘」打开内置夸克分享，浏览免登录；夸克 / 百度 / 阿里可在设置里直接登录：登录页默认电脑版，可切手机版，带网址栏，不用手抄 Cookie
 - 网盘下载进后台队列，显示速度 / 进度，离开目录不中断
 - 安卓点歌与直播都走本机 ExoPlayer；MKV 多音轨可切原唱 / 伴唱
 - 源码仓私有，本仓不要推源码
