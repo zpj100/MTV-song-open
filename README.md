@@ -13,8 +13,8 @@
 
 当前包：
 
-- APK 1.5.11：https://gitee.com/zpj100/MTV-song-open/releases/download/v1.5.11/mtv-song-1.5.11.apk
-- 备用：https://github.com/zpj100/MTV-song-open/releases/download/v1.5.11/mtv-song-1.5.11.apk
+- APK 1.5.12：https://gitee.com/zpj100/MTV-song-open/releases/download/v1.5.12/mtv-song-1.5.12.apk
+- 备用：https://github.com/zpj100/MTV-song-open/releases/download/v1.5.12/mtv-song-1.5.12.apk
 
 应用内「检查更新」对照本仓最新发行，无需登录。
 
