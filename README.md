@@ -13,8 +13,8 @@
 
 当前包：
 
-- APK 1.5.15：https://gitee.com/zpj100/MTV-song-open/releases/download/v1.5.15/mtv-song-1.5.15.apk
-- 备用：https://github.com/zpj100/MTV-song-open/releases/download/v1.5.15/mtv-song-1.5.15.apk
+- APK 1.5.16：https://gitee.com/zpj100/MTV-song-open/releases/download/v1.5.16/mtv-song-1.5.16.apk
+- 备用：https://github.com/zpj100/MTV-song-open/releases/download/v1.5.16/mtv-song-1.5.16.apk
 
 应用内「检查更新」对照本仓最新发行，无需登录。
 
@@ -24,5 +24,5 @@
 - 网上搜歌只走 Internet Archive / Wikimedia / Openverse
 - 底部「网盘」打开内置夸克分享，浏览免登录；夸克 / 百度 / 阿里可在设置里直接登录：登录页默认电脑版，可切手机版，带网址栏，不用手抄 Cookie
 - 网盘下载进后台队列，显示速度 / 进度，离开目录不中断
-- 安卓点歌对照 KTVPlayer：本机 MediaPlayer 主解，失败才走 ijk；MKV 开播走默认音轨，点原唱/伴唱才切。全屏顶栏半透明悬浮
+- 安卓点歌对照 KTVPlayer：本机 MediaPlayer 主解，失败才走 ijk；MKV 开播走默认音轨，点原唱/伴唱才切。全屏顶栏半透明悬浮。检查更新下载显示进度
 - 源码仓私有，本仓不要推源码
